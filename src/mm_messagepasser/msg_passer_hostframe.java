@@ -15,7 +15,6 @@ import javax.swing.JOptionPane;
 import mmcorej.CMMCore;
 import mmcorej.DeviceDetectionStatus;
 import org.micromanager.Studio;
-import org.micromanager.events.NewDisplayEvent;
 import org.micromanager.events.PropertiesChangedEvent;
 import org.micromanager.display.DisplayWindow;
 import org.micromanager.events.ExposureChangedEvent;
